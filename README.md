@@ -1,4 +1,4 @@
-# SMARTFIT+
+# yuteam友队
 # 技能游玩主题收集贴
-[-by](https://myngy.github.io/) 南瓜页  |  [editor on GitHub](https://github.com/myio/myio.github.io/edit/master/README.md)  
+[-by 南瓜页](https://myngy.github.io/)  |  [editor on GitHub](https://github.com/myio/myio.github.io/edit/master/README.md)
 # :::::::::::::::::::::::::::::::::::
