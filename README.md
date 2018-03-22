@@ -2,4 +2,4 @@
 [more](https://myngy.github.io/)  <br />
 # ::::::::::::::::::::::::::::::[::](https://github.com/myio/myio.github.io/edit/master/README.md)
 
-                                    卩 myio.github.io
+                                     myio.github.io
