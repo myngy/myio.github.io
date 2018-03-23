@@ -1,5 +1,5 @@
 # MYIO
-# 技能游玩主题收集贴
+# 游学主题收集贴
 [more](https://myngy.github.io/)  <br />
 
 
