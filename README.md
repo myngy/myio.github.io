@@ -1,6 +1,6 @@
 # MYIO
 # 遊玩主题贴
-[more](https://myngy.github.io/)  |  [sorted](http://blog.sina.cn/dpool/blog/u/6514773409)<br />
+[more](https://myngy.github.io/)  |  [vblog](http://blog.sina.cn/dpool/blog/u/6514773409)<br />
 
 
 
