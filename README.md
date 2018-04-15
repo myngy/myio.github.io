@@ -1,6 +1,6 @@
 # MYIO
 # 遊玩主题贴
-[more](https://myngy.github.io/)<br />
+[more](https://myngy.github.io/)  |  订阅号<br />
 
 
 
